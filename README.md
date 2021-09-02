@@ -18,7 +18,6 @@ The objectives of this challenge were:
    * Generate a. csv file with your estimates to send the solution to the Kaggle platform.
 
 For this purpose, labelled training data and unlabelled test data were provided. 
-
 There are about 2k training pictures of people wearing facial masks and about 7k training pictures of people not wearing facial masks.
 
 
