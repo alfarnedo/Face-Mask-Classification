@@ -3,6 +3,7 @@
 ## Overview
 
 **Description**
+
 This is the solution given to a Kaggle challenge proposed by a teacher of a master’s degree course.
 
 An "AI" artificial intelligence solution must be developed to identify whether a person is wearing a face mask or not.
