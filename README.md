@@ -17,8 +17,13 @@ The objectives of this challenge were:
    * Represent the confusion matrix. 
    * Generate a. csv file with your estimates to send the solution to the Kaggle platform.
 
-For this purpose, labelled training data and unlabelled test data were provided. 
-There are about 2k training pictures of people wearing facial masks and about 7k training pictures of people not wearing facial masks.
+For this purpose, labelled training data and unlabelled test data were provided. There are about 2k training pictures of people wearing facial masks and about 7k training pictures of people not wearing facial masks.
+
+At the beginning of the code are the links where to download:
+  * The folder called data, with two folders:
+      * test --> In this folder are the test images.
+      * train --> In this folder are the training images.      
+  * The ". csv" file (testLabels.csv) which contains the test tags, to evaluate the efficiency of the classifier. 
 
 
 To carry out this project, different GitHub repositories, open source and forums were used, whose links are the following:
@@ -34,7 +39,3 @@ This project has the following folder distribution:
   * Readme.md, the file you are currently reading.
   * src/Face Mask Classification: 
       * code --> In this folder is the file . ipynb with the code.
-      * data:
-        * test --> In this folder are the test images.
-        * train --> In this folder are the training images.
-        * testLabels.csv --> In this folder is the ". csv" file which contains the test tags, to evaluate the efficiency of the classifier.
