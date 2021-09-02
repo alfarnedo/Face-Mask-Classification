@@ -11,6 +11,7 @@ An "AI" artificial intelligence solution must be developed to identify whether a
 For this, the construction of a simple facial mask detection system is offered as a solution in this challenge, using the deep learning technique called "Convolutional Neural Networks". This model could also be used to develop a complete software that scans all people prior to their entry into any public space and thereby minimize risks of contagion.
 
 The objectives of this challenge were:
+
     * Create a convolutional neural network “CNN” to classify facial images to identify whether or not the person in the image had a facial mask. 
     * Calculate the probability that each test image is a person wearing a face mask.
     * Calculate the AUC value, representing the ROC curve. 
