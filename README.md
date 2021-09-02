@@ -21,11 +21,13 @@ For this purpose, labelled training data and unlabelled test data were provided.
 
 There are about 2k training pictures of people wearing facial masks and about 7k training pictures of people not wearing facial masks.
 
+
 To carry out this project, different GitHub repositories, open source and forums were used, whose links are the following:
   * [*CREATE A CNN NETWORK (GITHUB REPOSITORY)*](https://github.com/mk-gurucharan/Face-Mask-Detection/) 
   * [*CREATE A CNN NETWORK (PYTORCH FORUM)*](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)
   * [*EARLY STOPPING FUNCTION (GITHUB REPOSITORY)*](https://github.com/Bjarten/early-stopping-pytorch)
   * [*ADAM OPTIMIZER*](https://medium.com/@Biboswan98/optim-adam-vs-optim-sgd-lets-dive-in-8dbf1890fbdc)
+
 
 
 ## FILES
